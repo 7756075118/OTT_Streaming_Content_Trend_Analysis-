@@ -1,5 +1,5 @@
 # 🎬 OTT Streaming Content Trend Analysis
-
+# Day 1
 ## 📌 Project Overview
 
 This project analyzes an OTT streaming content dataset to identify trends in movies and TV shows, genres, countries, ratings, release years, content additions, movie durations, and TV show seasons.
@@ -112,3 +112,39 @@ OTT_Streaming_Content_Trend_Analysis/
 │   └── content_strategy_memo.docx
 │
 └── README.md
+
+## Day 2 — OTT Streaming Content Trend Analysis
+
+## 📌 Project Overview
+
+Analyze the OTT catalog using Python, SQL, and Excel to identify genre distribution, release-year trends, content ratings, production-country mix, and movie duration.
+
+Tools Used
+Python
+Pandas
+Matplotlib
+Seaborn
+SQL
+Excel
+
+
+Analysis Performed
+Data inspection and cleaning
+Movies vs TV Shows comparison
+Top 10 genre analysis
+Release-year trend analysis
+Content rating distribution
+Production-country analysis
+Movie duration analysis
+
+
+Deliverables
+ott_content_eda.ipynb
+ott_analysis.sql
+content_analysis.xlsx
+content_strategy_memo.md
+Visualizations saved in visualizations/
+
+
+Business Value
+The analysis identifies patterns in the available content catalog and provides hypotheses for genre acquisition, regional expansion, and content portfolio planning. These recommendations should be validated against audience engagement and acquisition costs.

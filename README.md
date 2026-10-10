@@ -148,3 +148,67 @@ Visualizations saved in visualizations/
 
 Business Value
 The analysis identifies patterns in the available content catalog and provides hypotheses for genre acquisition, regional expansion, and content portfolio planning. These recommendations should be validated against audience engagement and acquisition costs.
+
+---
+
+## Day 3 — Exploratory Data Analysis (EDA) & Content Strategy
+
+### Objective
+To analyze OTT streaming catalog data and identify patterns in content types, genres, country-wise distribution, content ratings, release years, and movie duration.
+
+### Tools & Technologies
+- Python
+- Pandas and NumPy
+- Matplotlib
+- MySQL
+- Jupyter Notebook
+
+### Tasks Completed
+
+1. Loaded and inspected the Netflix titles dataset.
+2. Analyzed content types, genres, countries, ratings, release years, and movie duration.
+3. Created visualizations to understand catalog trends.
+4. Prepared SQL aggregation queries for content analysis.
+5. Developed business insights and content acquisition recommendations.
+
+### Key Findings
+
+- **Total Titles:** 6,234
+- **Movies:** 4,265 (approximately 68.4%)
+- **TV Shows:** 1,969 (approximately 31.6%)
+- **Top Genre:** Dramas — 1,077 titles
+- **Top Primary Country:** United States — 2,302 titles
+- **Most Represented Release Year:** 2018 — 1,063 titles
+- **Most Common Content Rating:** TV-MA — 2,027 titles
+- **Median Movie Duration:** 98 minutes
+
+### Visualizations
+
+The following charts were created to analyze the catalog:
+
+1. Movies vs TV Shows
+2. Top 10 Genres
+3. Content Distribution by Release Year
+4. Top 10 Countries
+5. Content Ratings Distribution
+6. Movie Runtime Distribution
+
+### Business Recommendations
+
+1. **Genre Strategy:** Evaluate genre-level viewing hours and completion rates before allocating acquisition budgets.
+2. **Regional Strategy:** Investigate regional content gaps using country-level viewing data and language preferences.
+3. **Format Strategy:** Compare movie runtimes and TV show formats using audience engagement and retention metrics.
+
+### Project Deliverables
+
+- EDA Jupyter Notebook
+- Data visualization charts
+- SQL analysis queries
+- Content strategy memo
+- Business insights and recommendations
+
+### Conclusion
+
+The analysis identified the distribution of movies and TV shows, leading primary genres, country representation, release-year patterns, content ratings, and movie duration. Combining these findings with audience engagement and financial performance data can support better content acquisition decisions.
+
+**Note:** Catalog counts represent the number of listed titles and do not directly measure viewership or profitability.

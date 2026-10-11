@@ -212,3 +212,73 @@ The following charts were created to analyze the catalog:
 The analysis identified the distribution of movies and TV shows, leading primary genres, country representation, release-year patterns, content ratings, and movie duration. Combining these findings with audience engagement and financial performance data can support better content acquisition decisions.
 
 **Note:** Catalog counts represent the number of listed titles and do not directly measure viewership or profitability.
+
+---
+
+# Day 4 — OTT Content Strategy Analysis
+
+## Objective
+
+To analyze the Netflix content catalog and identify patterns in genre popularity, release trends, content ratings, country distribution, movie duration, and TV show seasons.
+
+The objective is to convert exploratory data analysis into actionable recommendations for a content acquisition team.
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- MySQL
+- SQL
+- Excel
+- Jupyter Notebook
+
+## Tasks Completed
+
+- Loaded and explored the Netflix titles dataset.
+- Cleaned text columns and handled missing values.
+- Analyzed Movies vs. TV Shows distribution.
+- Identified the top 10 primary genres.
+- Analyzed content release trends by year.
+- Visualized content rating distribution.
+- Analyzed the top 10 primary countries.
+- Studied movie duration distribution.
+- Analyzed TV shows by number of seasons.
+- Compared genre distribution across Movies and TV Shows.
+- Created SQL queries for core aggregations.
+- Exported summary tables to Excel.
+- Prepared a Content Strategy Memo with three actionable recommendations.
+
+## Visualizations
+
+1. Content Type Distribution
+2. Top 10 Primary Genres
+3. Content Release Trends
+4. Content Rating Distribution
+5. Top 10 Countries by Catalog Titles
+6. Movie Duration Distribution
+7. TV Shows by Number of Seasons
+8. Genre Mix: Movies vs. TV Shows
+
+## Business Insights
+
+- **Genre Strategy:** Identify popular and underrepresented genres for further acquisition research.
+- **Regional Strategy:** Explore regional and local-language content opportunities based on audience demand.
+- **Content Format Strategy:** Compare movie duration and TV show seasons with actual viewer engagement before making investment decisions.
+
+*Note: These are strategic hypotheses based on catalog analysis. Viewer engagement and profitability require additional data.*
+
+## Deliverables
+
+- Jupyter Notebook: `day4_ott_content_analysis.ipynb`
+- SQL Queries: `day4_analysis_queries.sql`
+- Excel Summary: `OTT_Content_Strategy_Summary.xlsx`
+- Content Strategy Memo: `Content_Strategy_Memo.md`
+- Eight data visualization charts in PNG format
+
+## Conclusion
+
+Day 4 focused on transforming Netflix catalog data into meaningful business insights using Python, SQL, and Excel. The analysis supports data-driven exploration of genre, regional, and content-format opportunities for a streaming platform.
+
+This work strengthened my skills in exploratory data analysis, data visualization, SQL aggregations, and business storytelling.

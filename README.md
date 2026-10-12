@@ -282,3 +282,29 @@ The objective is to convert exploratory data analysis into actionable recommenda
 Day 4 focused on transforming Netflix catalog data into meaningful business insights using Python, SQL, and Excel. The analysis supports data-driven exploration of genre, regional, and content-format opportunities for a streaming platform.
 
 This work strengthened my skills in exploratory data analysis, data visualization, SQL aggregations, and business storytelling.
+
+## Day 5 — Final OTT Content Strategy
+
+### Work Completed
+- Reviewed the results from the previous project days.
+- Finalized the EDA notebook and visualizations.
+- Prepared SQL queries for core aggregations.
+- Summarized the main content distribution and genre patterns.
+- Developed three actionable business recommendations.
+- Prepared the final content strategy memo.
+
+### Deliverables
+- Final EDA notebook
+- At least six data visualizations
+- SQL aggregation queries
+- Final content strategy memo
+
+### Business Recommendations
+1. Evaluate the movie and TV show portfolio using audience engagement data.
+2. Investigate genre acquisition opportunities using catalog coverage and viewing trends.
+3. Explore regional content diversification using local audience demand and licensing considerations.
+
+### Conclusion
+The project demonstrates the application of Python, data visualization, and SQL to OTT catalog analysis. It provides a foundation for content portfolio planning and further business analysis using audience engagement data.
+
+**Project Status:** Day 5 completed — final deliverables prepared and validated.
